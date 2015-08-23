@@ -1,3 +1,3 @@
 exports.message = function(){
-	console.log('This message is from external.js');
+	alert("Este es un mensaje desde external.js");
 };
